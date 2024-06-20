@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>0.0.1</Version>
+        <Title>SSuite.Extensions</Title>
+        <Authors>Samuel Echols</Authors>
+        <Description>A helpful set of extension methods</Description>
+        <Copyright>2024</Copyright>
+        <PackageIcon>logo-light.png</PackageIcon>
+        <PackageTags>Extensions, Helper</PackageTags>
+        <RootNamespace>SSuit.Extensions</RootNamespace>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <None Include="logo-light.png" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+    
+</Project>
