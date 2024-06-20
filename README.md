@@ -6,6 +6,7 @@
 ![GitHub License](https://img.shields.io/github/license/SSuiteCore/SSuite.Extensions)
 
 <div align="center">
+  Provides a helpful set of extension methods.
 </div>
 
 ## License
